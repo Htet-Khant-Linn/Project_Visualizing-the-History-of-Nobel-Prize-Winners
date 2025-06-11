@@ -1,7 +1,5 @@
 # Project_Visualizing-the-History-of-Nobel-Prize-Winners
 
-# Visualizing the History of Nobel Prize Winners
-
 This project explores the history of Nobel Prize winners from 1901 to 2023 using data from the Nobel Prize API. It includes analysis and visualizations to uncover trends and insights across various prize categories—Chemistry, Literature, Physics, Physiology or Medicine, Economics, and Peace.
 
 The dataset used is provided in the `nobel.csv` file located in the `data` folder. Key questions explored in this project include:
